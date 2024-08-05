@@ -1,5 +1,6 @@
 # Miscellaneous
 .env
+googleapi.env
 api.env
 *.class
 *.log

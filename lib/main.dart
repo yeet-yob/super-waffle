@@ -8,6 +8,8 @@ import 'package:pw_24/services/auth_service.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 void main() async {
+  await dotenv.load(fileName: "googleapi.env");
+  await dotenv.load(fileName: "api.env");
   await setup();
   runApp(MyApp());
 }
