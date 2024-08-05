@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096329841689",
+    "project_id": "motivationchatapp",
+    "storage_bucket": "motivationchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096329841689:android:6e8d0efaa03966753c2e88",
+        "android_client_info": {
+          "package_name": "com.goalapp.epoch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA1oOb42fPVlDIefHNXhtelFlrhzE0zdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
